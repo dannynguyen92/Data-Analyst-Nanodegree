@@ -11,7 +11,7 @@
 
 ## Certificate
 
-![Data Analyst Nanodegree](https://graduation.udacity.com/confirm/7KUNLRQD)
+[Data Analyst Nanodegree](https://graduation.udacity.com/confirm/7KUNLRQD)
 
 ## Project Overview
 ### P1: Explore Weather Trends
