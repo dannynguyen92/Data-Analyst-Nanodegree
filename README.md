@@ -30,7 +30,7 @@ This project is to provide weather trend analysis between Sydney and the world u
 - Both Sydney and global temperature have an upward trend in the change of temperature across the period
 - The rise in global average temperature is positively correlated to Sydney’s temperature
 
-### P2: Investigate a Dataset (Gapminder World Dataset)
+### P2: Investiagte TMDB Movie Data
 
 This chapter was all about the data analysis process as whole. From gathering to cleaning, assessing and wrangling to exploring and visualizing the data over the programming workflow and communication was everything included. 
 
