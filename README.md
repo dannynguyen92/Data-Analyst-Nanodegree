@@ -3,7 +3,7 @@
 > Discover insights from data through the use of Python (Pandas, matplotlib, Seaborn and SQL)
 
 ## Skills Acquired (Summary)
-- Exploratory data analysis (EDA) 123
+- Exploratory data analysis (EDA)
 - Data Wrangling
 - A/B Testing
 - Data collection by using web scrapping (BeautifulSoup) and APIs
